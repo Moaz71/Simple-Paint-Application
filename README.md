@@ -1,4 +1,4 @@
-#Simple Paint Application
+Simple Paint Application
 
 By: Moaz Sabry and Gehad Ashry
 
